@@ -3,7 +3,7 @@
 # Useful SQL Queries for UMich Research Centers & Institutes
 
 ## Description
-Useful SQL queries for University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
+Useful SQL queries for administrators of University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
 
 
 
