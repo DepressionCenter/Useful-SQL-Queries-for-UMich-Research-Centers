@@ -18,7 +18,6 @@
  * To make it easier to identify uncommon funding sources, you can also filter on FUNDERS_EXCLUDING_COMMON_SOURCES which excludes NIH, CDC, etc.
  * 
  */
--- Gets funding acknowledgements, and break them up into separate columns for grant and funding source
 SELECT DISTINCT
 			pub.PUBLCTN_ID,
 			REGEXP_SUBSTR(trim(COLUMN_VALUE), '^Grant:\s*([^,]+),', 1, 1, NULL, 1) AS GRANT_CODE,
