@@ -1,28 +1,30 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# <Repository Title>
+# Useful SQL Queries for UMich Research Centers & Institutes
 
 ## Description
-This is the code repository for <program/library name>, a <program/library> for (description of what it does).
+Useful SQL queries for University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
 
 
 
 ## Quick Start Guide
-<Quick compile/run instructions>
+* These example queries are organized by subject area or general reporting need (e.g. "Publications").
+* To use them, copy the query you want to use, paste it into your favorite SQL development tool, and edit any input variables.
+* The query documents which data sources are needed. To be granted access, submit a ticket to HITS or ITS depending on the source.
 
 
 
 ## Documentation
-<Links to manual, wiki, full documentation, etc.>
++ Each query is self-documented.
 
 
 ## Additional Resources
-<Links to study website, related projects, etc.>
++ None.
 
 
 
 ## About the Team
-< 1-2 paragraphs about your core, study team, class or project. >
+The Mobile Technologies Core provides investigators across the University of Michigan the support and guidance needed to utilize mobile technologies and digital mental health measures in their studies. Experienced faculty and staff offer hands-on consultative services to researchers throughout the University – regardless of specialty or research focus.
 
 
 
