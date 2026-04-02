@@ -1,9 +1,9 @@
 ![Depression Center Logo](https://github.com/DepressionCenter/.github/blob/main/images/EFDCLogo_375w.png "depressioncenter.org")
 
-# Useful SQL Queries for UMich Research Centers & Institutes
+# Useful SQL Queries™ for UMich Research Centers & Institutes
 
 ## Description
-Useful SQL queries for administrators of University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
+Useful SQL queries™ for administrators of University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
 
 
 
@@ -49,7 +49,8 @@ If you need assistance identifying a contact person, email the EFDC's Mobile Tec
 
 ## License
 ### Copyright Notice
-Copyright © 2023 The Regents of the University of Michigan
+Useful SQL Queries™ is a trademark of The Regents of the University of Michigan.
+Copyright © 2023-2026 The Regents of the University of Michigan.
 
 
 ### Software and Library License
@@ -75,4 +76,4 @@ If you find this repository, code or paper useful for your research, please cite
 
 ----
 
-Copyright © 2024 The Regents of the University of Michigan
+Copyright © 2023-2026 The Regents of the University of Michigan
