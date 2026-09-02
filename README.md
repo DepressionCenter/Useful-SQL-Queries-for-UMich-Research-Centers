@@ -3,7 +3,9 @@
 # Useful SQL Queries™ for UMich Research Centers & Institutes
 
 ## Description
-Useful SQL queries™ for administrators of University of Michigan research cores, centers, institutes and labs, including queries to report on publications and grants.
+Useful SQL Queries™ for U-M Research Centers is a curated collection of reusable Oracle SQL reporting queries for research administration. The examples help cores, centers, institutes, and labs report on member publications, grants, and related institutional data.
+
+Each query can be used as a starting point and adapted to local schemas, permissions, and reporting rules. The repository is especially relevant to University of Michigan teams, while its patterns may also help analysts building similar research-performance reports elsewhere.
 
 
 
